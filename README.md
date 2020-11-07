@@ -3,4 +3,4 @@
 [Link to the repo of my project (nodash)](https://github.com/crepac4/nodash)
 
 
-[Link to the website of my project (nodash)](https://github.com/crepac4/nodash)
+[Link to the website of my project (nodash)](https://crepac4.github.io/nodash)
